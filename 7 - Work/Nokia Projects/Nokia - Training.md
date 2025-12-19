@@ -1,0 +1,10 @@
+- [ ] GSD Digital Adoption - I Know Digital
+- [ ] AI/ML | MN 04520-AIML-K-2407
+- [ ] Data Analyst | MN04520-DataAnalyst-K02407
+- [ ] Data Engineer | MN04520-DataEngineer-K-2407
+- [ ] DB Admin | MN0450-DBAdmin-K-2407
+- [ ] Digital Delivery Workflow Manager | MN0450-DDWFManager-K-2407
+- [ ] Digital Delivery Workflow Owner | MN04520-DDWFOwner-K-2407
+- [ ] Digital Workflow Developer BE | MN04520-DWFDevBE-K-2407
+- [ ] Digital Workflow Developer FE | MN04520-DWFDevFE-2407
+- [ ] Scrum Master | MN04520-ScrumMaster-K-2407

@@ -1,0 +1,22 @@
+- [ ] Movie - English - Free Guy
+- [ ] Movie - English - [[Mission Impossible]]
+- [ ] Movie - English - [[Zootopia]]
+- [ ] Movie - English - Good Fortune
+- [ ] Movie - English - F1: The Movie
+- [ ] Movie - English - Superman 2025
+- [x] Movie - English - Jurassic World: Rebirth
+- [x] Movie - English - Frankenstein 
+- [x] Movie - Hindi - Dhurandhar
+- [ ] Movie - English - Happy Gilmore
+	- [ ] Happy Gilmore
+	- [ ] Happy Gilmore 2
+- [ ] Movie - English - Jack Reacher
+	- [ ] Jack Reacher
+	- [ ] Never Go Back
+- [ ] Movie - English - Oblivion
+- [ ] Movie - English - Edge of Tomorrow
+- [ ] Movie - English - The Mummy - 2017
+- [ ] Movie - English - Top Gun
+	- [ ] 1986 - Top Gun
+	- [ ] 2022 - Maverick
+- [ ] Movie - English - [[Now You See Me]]
