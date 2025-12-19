@@ -23,3 +23,10 @@ Big-O as a Language of Trade-offs
 3. One real-world system where asymptotic analysis alone is misleading. 
    I have no idea on this. Tried to think I didn't get anything
 #### Task 2 - Thought Experiment
+Question:
+You have two implementation of a function:
+A: O(n) but with heavy memory allocation
+B: O(n log n) but extremely cache-friendly
+For n =1 million which might be faster in practice, and why?
+
+Answer
