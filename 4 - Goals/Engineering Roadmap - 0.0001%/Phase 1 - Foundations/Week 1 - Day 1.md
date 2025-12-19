@@ -46,28 +46,22 @@ Answer Yes / No
    Yes: Depends on the hardware difference alone. 
 
 ChatGPT Answers
-## Canonical Corrections (Lock These In)
+#### Canonical Corrections (Lock These In)
 
-### 1️⃣ “Big-O ignores constants”
+#### 1️⃣ “Big-O ignores constants”
 
 **Correct but incomplete.**
 
 - Big-O ignores constants **for scalability reasoning**
-    
 - Elite engineers **reintroduce constants** when:
-    
     - n is bounded
-        
     - latency budgets exist
-        
     - cache, memory, network dominate
-        
-
 If your answer didn’t explicitly mention **latency budgets, cache effects, or system constraints**, your mental model is still academic.
 
 ---
 
-### 2️⃣ O(n log n) vs O(n²) when n is “small”
+#### 2️⃣ O(n log n) vs O(n²) when n is “small”
 
 If your reasoning relied only on “growth rate,” you missed the point.
 
@@ -91,7 +85,7 @@ This matters in distributed systems later. Remember this.
 
 ---
 
-### 3️⃣ “Asymptotic analysis can be misleading”
+#### 3️⃣ “Asymptotic analysis can be misleading”
 
 If your example wasn’t:
 
@@ -108,7 +102,7 @@ Big-O lies most often when **the bottleneck is not CPU**.
 
 ---
 
-### 4️⃣ Amortized O(1) (Critical)
+#### 4️⃣ Amortized O(1) (Critical)
 
 If you used the word **“average”**, that was wrong.
 
@@ -130,7 +124,7 @@ This distinction will matter when we talk about:
 
 ---
 
-### 5️⃣ Forced decision question (A vs B)
+#### 5️⃣ Forced decision question (A vs B)
 
 There is no “safe” answer.
 
@@ -143,3 +137,6 @@ A weak engineer says:
 > “It depends.”
 
 We eliminate weak answers here.
+
+---
+### Block B
