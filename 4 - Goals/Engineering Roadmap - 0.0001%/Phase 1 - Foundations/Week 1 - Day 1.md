@@ -29,4 +29,8 @@ A: O(n) but with heavy memory allocation
 B: O(n log n) but extremely cache-friendly
 For n =1 million which might be faster in practice, and why?
 
-Answer
+Answer: I am going with the option A, the reason it takes memory which RAM we can expand till some extend, but it's N contant time as N is million
+
+#### Task 3 - Amortized Analysis
+Question: Why appending to a dynamic array is amortized O(1), not O(n) even though resizing sometimes costs O(n)
+Answer: When the size is lesser, the creating new memory location will happen frequency as data is increasing, but when
