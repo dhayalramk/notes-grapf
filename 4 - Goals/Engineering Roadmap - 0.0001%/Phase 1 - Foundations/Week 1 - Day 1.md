@@ -41,3 +41,6 @@ Answer Yes / No
 1. Is O(2n) different from O(N)?
    No. as constant we can ignore when it's Big O, as it won't make differences
 2. Is O(log n) always faster than O(n)
+   Yes: It will be equals when N is small, as the number increase it will be faster all the time 
+3. Can two O(n) algorithms have drastically different real-world performance?
+   Yes: Depends on the hardware difference alone. 
