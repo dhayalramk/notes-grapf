@@ -33,4 +33,11 @@ Answer: I am going with the option A, the reason it takes memory which RAM we ca
 
 #### Task 3 - Amortized Analysis
 Question: Why appending to a dynamic array is amortized O(1), not O(n) even though resizing sometimes costs O(n)
-Answer: When the size is lesser, the creating new memory location will happen frequency as data is increasing, but when
+Answer: When the size is lesser, the creating new memory location will happen frequency as data is increasing, but when we are in larger scale, the reallocation happens rarely. that's the reason we call it as O(1).
+Note: this is not correct answer as I know, need to get real answer from chatGPT
+
+#### Task 4 - Precision Check
+Answer Yes / No
+1. Is O(2n) different from O(N)?
+   No. as constant we can ignore when it's Big O, as it won't make differences
+2. Is O(log n) always faster than O(n)
