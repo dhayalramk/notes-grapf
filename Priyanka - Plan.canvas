@@ -10,7 +10,6 @@
 		{"id":"b56f9b5237362dfb","x":1620,"y":101,"width":250,"height":60,"type":"text","text":"Pooja"},
 		{"id":"e7cbaad3c2d42658","x":1660,"y":221,"width":250,"height":60,"type":"text","text":"Sweeping"},
 		{"id":"9516af97921bb8f4","type":"text","text":"Needed Things\n\n- 7 - 8 Hours Sleep\n- 100 Gram Protein\n- 30 Minute minimum walk\n- 6 Days weight training\n- Vitamin C\n- Collagen\n- Protein Powder\n- Creatine","x":-680,"y":-533,"width":250,"height":327},
-		{"id":"3f7a9905f6990387","x":-153,"y":28,"width":250,"height":60,"type":"text","text":"Bath - 10 Min"},
 		{"id":"fb53aa7a7b767879","x":84,"y":800,"width":1293,"height":331,"type":"text","text":"Getting Ready\n\n- Restroom\n- Brush\n- Location\n- Face Cream\n- Lipsstick\n- Kajal\n- Cloths\n- Shoes"},
 		{"id":"ad936e8e6d468f9d","x":-555,"y":28,"width":250,"height":60,"type":"text","text":"Monday"},
 		{"id":"8c0d12f5ef3aa2d6","x":-555,"y":161,"width":250,"height":60,"type":"text","text":"Tuesday"},
@@ -23,7 +22,10 @@
 		{"id":"3dfd7459833984c9","x":84,"y":700,"width":946,"height":60,"type":"text","text":"Exercise - 15 Minutes"},
 		{"id":"2e274c9c7cf93007","type":"text","text":"Walk - 30 Min","x":84,"y":610,"width":946,"height":60},
 		{"id":"000a8f9b5d831c20","x":-260,"y":297,"width":250,"height":60,"type":"text","text":"Head Bath - 20 Min"},
-		{"id":"c4a7f7ffd11d4e42","type":"text","text":"Bath - 10 Min","x":-260,"y":161,"width":250,"height":60}
+		{"id":"c4a7f7ffd11d4e42","type":"text","text":"Bath - 10 Min","x":-260,"y":161,"width":250,"height":60},
+		{"id":"3f7a9905f6990387","x":-260,"y":28,"width":250,"height":60,"type":"text","text":"Bath - 10 Min"},
+		{"id":"0135954d4dc1c223","x":97,"y":28,"width":1293,"height":60,"type":"text","text":"Warm Water"},
+		{"id":"3f2d6e0845fbcae7","x":97,"y":161,"width":1293,"height":60,"type":"text","text":"Soaked Dry Fruits + Almond"}
 	],
 	"edges":[
 		{"id":"89ba887b922b9a3d","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"dfb3379ad045ce6e","toSide":"top"},
