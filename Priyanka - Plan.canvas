@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"9516af97921bb8f4","x":-439,"y":-307,"width":250,"height":327,"type":"text","text":"Needed Things\n\n- 7 - 8 Hours Sleep\n- 100 Gram Protein\n- 30 Minute minimum walk\n- 6 Days weight training\n- Vitamin C\n- Collagen\n- Protein Powder\n- Creatine"},
-		{"id":"77ab1624728ad535","x":-92,"y":-274,"width":250,"height":60,"type":"text","text":"Office Day"},
-		{"id":"dfb3379ad045ce6e","x":97,"y":-103,"width":250,"height":60,"type":"text","text":"Wake Up at 5 AM"},
-		{"id":"f5eacc9df92583e0","x":460,"y":-103,"width":250,"height":60,"type":"text","text":"Wake Up at 6 AM"},
-		{"id":"0cab129cd6b172c4","x":1140,"y":-102,"width":250,"height":60,"type":"text","text":"Wake Up at 8 AM"},
-		{"id":"e3b795fc36e75034","x":780,"y":-102,"width":250,"height":60,"type":"text","text":"Wake Up at 7 AM"},
-		{"id":"ecc9bd2369ddc6a6","x":97,"y":520,"width":1203,"height":50,"type":"text","text":"Start to Office at 09:00 AM"}
+		{"id":"9516af97921bb8f4","type":"text","text":"Needed Things\n\n- 7 - 8 Hours Sleep\n- 100 Gram Protein\n- 30 Minute minimum walk\n- 6 Days weight training\n- Vitamin C\n- Collagen\n- Protein Powder\n- Creatine","x":-439,"y":-307,"width":250,"height":327},
+		{"id":"dfb3379ad045ce6e","type":"text","text":"Wake Up at 5 AM","x":97,"y":-103,"width":250,"height":60},
+		{"id":"f5eacc9df92583e0","type":"text","text":"Wake Up at 6 AM","x":460,"y":-103,"width":250,"height":60},
+		{"id":"0cab129cd6b172c4","type":"text","text":"Wake Up at 8 AM","x":1140,"y":-102,"width":250,"height":60},
+		{"id":"e3b795fc36e75034","type":"text","text":"Wake Up at 7 AM","x":780,"y":-102,"width":250,"height":60},
+		{"id":"ecc9bd2369ddc6a6","type":"text","text":"Start to Office at 09:00 AM","x":97,"y":520,"width":1293,"height":50},
+		{"id":"77ab1624728ad535","type":"text","text":"Office Day","x":619,"y":-400,"width":250,"height":60},
+		{"id":"fb53aa7a7b767879","x":817,"y":189,"width":250,"height":60,"type":"text","text":"Getting Ready\n\n- R"}
 	],
 	"edges":[
 		{"id":"89ba887b922b9a3d","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"dfb3379ad045ce6e","toSide":"top"},
