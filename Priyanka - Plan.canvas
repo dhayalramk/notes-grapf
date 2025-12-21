@@ -5,11 +5,15 @@
 		{"id":"f5eacc9df92583e0","type":"text","text":"Wake Up at 6 AM","x":460,"y":-103,"width":250,"height":60},
 		{"id":"0cab129cd6b172c4","type":"text","text":"Wake Up at 8 AM","x":1140,"y":-102,"width":250,"height":60},
 		{"id":"e3b795fc36e75034","type":"text","text":"Wake Up at 7 AM","x":780,"y":-102,"width":250,"height":60},
-		{"id":"ecc9bd2369ddc6a6","type":"text","text":"Start to Office at 09:00 AM","x":97,"y":520,"width":1293,"height":50},
 		{"id":"77ab1624728ad535","type":"text","text":"Office Day","x":619,"y":-400,"width":250,"height":60},
-		{"id":"fb53aa7a7b767879","x":817,"y":189,"width":250,"height":211,"type":"text","text":"Getting Ready\n\n- Restroom\n- Brush\n- Location\n- Face Cream\n- Lipsstick\n- Kajal\n- Cloths\n- Shoes"},
 		{"id":"000a8f9b5d831c20","x":167,"y":131,"width":250,"height":60,"type":"text","text":"Head Bath - 20 Min"},
-		{"id":"3f7a9905f6990387","x":494,"y":192,"width":250,"height":60,"type":"text","text":"Bath - 10 Min"}
+		{"id":"3f7a9905f6990387","x":494,"y":192,"width":250,"height":60,"type":"text","text":"Bath - 10 Min"},
+		{"id":"b9cf96d5364ff489","x":-364,"y":260,"width":250,"height":60,"type":"text","text":"Weekend - Ironing Dress"},
+		{"id":"fb53aa7a7b767879","x":890,"y":161,"width":250,"height":331,"type":"text","text":"Getting Ready\n\n- Restroom\n- Brush\n- Location\n- Face Cream\n- Lipsstick\n- Kajal\n- Cloths\n- Shoes"},
+		{"id":"ecc9bd2369ddc6a6","type":"text","text":"Start to Office at 09:00 AM","x":97,"y":820,"width":1293,"height":50},
+		{"id":"b56f9b5237362dfb","x":181,"y":339,"width":250,"height":60,"type":"text","text":"Pooja"},
+		{"id":"e7cbaad3c2d42658","x":292,"y":559,"width":250,"height":60,"type":"text","text":"Sweeping"},
+		{"id":"f0a9f7b04f323a7d","x":480,"y":414,"width":250,"height":60,"type":"text","text":"Watering Plants"}
 	],
 	"edges":[
 		{"id":"89ba887b922b9a3d","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"dfb3379ad045ce6e","toSide":"top"},
