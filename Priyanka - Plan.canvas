@@ -25,7 +25,6 @@
 		{"id":"2e274c9c7cf93007","type":"text","text":"Walk - 30 Min","x":97,"y":297,"width":940,"height":60},
 		{"id":"7deefa101ea85810","type":"text","text":"Soaked Channa / Moong / Soya Chunks","x":104,"y":444,"width":933,"height":60},
 		{"id":"3dfd7459833984c9","type":"text","text":"Exercise - 15 Minutes","x":104,"y":580,"width":933,"height":60},
-		{"id":"2a95d556a069694d","type":"text","text":"ABC Juice","x":104,"y":700,"width":606,"height":60},
 		{"id":"fb53aa7a7b767879","type":"text","text":"Getting Ready\n\n- Restroom\n- Brush\n- Location\n- Face Cream\n- Lipsstick\n- Kajal\n- Cloths\n- Shoes","x":104,"y":800,"width":1286,"height":331},
 		{"id":"ecc9bd2369ddc6a6","type":"text","text":"Start to Office at 09:00 AM","x":104,"y":1280,"width":1286,"height":50},
 		{"id":"d138690a6ddd2b74","type":"text","text":"Packing Fruits + Roasted Nuts + Vitamin C + Protein Powder","x":104,"y":1170,"width":1286,"height":60},
@@ -35,7 +34,10 @@
 		{"id":"513faf23c461be9b","type":"text","text":"Return Home - 6.30 PM","x":460,"y":1420,"width":250,"height":60},
 		{"id":"642caac528130cf6","x":104,"y":1640,"width":1286,"height":60,"type":"text","text":"Collagen + Ashwagandha"},
 		{"id":"82a4bbb195c35ddc","x":104,"y":1760,"width":1286,"height":60,"type":"text","text":"Dinner"},
-		{"id":"e30776bdb8c55ac9","x":104,"y":1880,"width":250,"height":50,"type":"text","text":"Wash Face"}
+		{"id":"e30776bdb8c55ac9","x":104,"y":1880,"width":1286,"height":50,"type":"text","text":"Wash Face + Brush Teeth"},
+		{"id":"ae46680b64f11d2b","x":104,"y":1980,"width":1286,"height":60,"type":"text","text":"Sleep"},
+		{"id":"2a95d556a069694d","type":"text","text":"ABC Juice","x":104,"y":730,"width":606,"height":60},
+		{"id":"c288febca7c3f9e3","x":104,"y":652,"width":250,"height":60,"type":"text","text":"Bath"}
 	],
 	"edges":[
 		{"id":"89ba887b922b9a3d","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"dfb3379ad045ce6e","toSide":"top"},
