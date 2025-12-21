@@ -19,14 +19,15 @@
 		{"id":"b9cf96d5364ff489","type":"text","text":"Weekend - Ironing Dress","x":1575,"y":700,"width":250,"height":60},
 		{"id":"632639d4482d8fd3","type":"text","text":"Bath - 10 Min","x":-260,"y":580,"width":250,"height":60},
 		{"id":"8424c867cad69eb8","type":"text","text":"Bath - 10 Min","x":-260,"y":444,"width":250,"height":60},
-		{"id":"3dfd7459833984c9","type":"text","text":"Exercise - 15 Minutes","x":84,"y":700,"width":946,"height":60},
 		{"id":"000a8f9b5d831c20","type":"text","text":"Head Bath - 20 Min","x":-260,"y":297,"width":250,"height":60},
 		{"id":"c4a7f7ffd11d4e42","type":"text","text":"Bath - 10 Min","x":-260,"y":161,"width":250,"height":60},
 		{"id":"3f7a9905f6990387","type":"text","text":"Bath - 10 Min","x":-260,"y":28,"width":250,"height":60},
 		{"id":"0135954d4dc1c223","type":"text","text":"Warm Water","x":97,"y":28,"width":1293,"height":60},
 		{"id":"3f2d6e0845fbcae7","type":"text","text":"Soaked Dry Fruits + Almond","x":97,"y":161,"width":1293,"height":60},
-		{"id":"7deefa101ea85810","type":"text","text":"Soaked Channa / Moong / Soya Chunks","x":97,"y":292,"width":933,"height":60},
-		{"id":"2e274c9c7cf93007","type":"text","text":"Walk - 30 Min","x":90,"y":387,"width":946,"height":60}
+		{"id":"2e274c9c7cf93007","type":"text","text":"Walk - 30 Min","x":97,"y":297,"width":940,"height":60},
+		{"id":"7deefa101ea85810","type":"text","text":"Soaked Channa / Moong / Soya Chunks","x":104,"y":444,"width":933,"height":60},
+		{"id":"3dfd7459833984c9","type":"text","text":"Exercise - 15 Minutes","x":104,"y":580,"width":933,"height":60},
+		{"id":"2a95d556a069694d","x":104,"y":700,"width":606,"height":60,"type":"text","text":"ABC Juice"}
 	],
 	"edges":[
 		{"id":"89ba887b922b9a3d","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"dfb3379ad045ce6e","toSide":"top"},
