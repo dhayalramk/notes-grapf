@@ -28,12 +28,25 @@
 		{"id":"2a95d556a069694d","type":"text","text":"ABC Juice","x":104,"y":700,"width":606,"height":60},
 		{"id":"fb53aa7a7b767879","type":"text","text":"Getting Ready\n\n- Restroom\n- Brush\n- Location\n- Face Cream\n- Lipsstick\n- Kajal\n- Cloths\n- Shoes","x":104,"y":800,"width":1286,"height":331},
 		{"id":"ecc9bd2369ddc6a6","type":"text","text":"Start to Office at 09:00 AM","x":104,"y":1280,"width":1286,"height":50},
-		{"id":"d138690a6ddd2b74","type":"text","text":"Packing Fruits + Roasted Nuts + Vitamin C + Protein Powder","x":104,"y":1170,"width":1286,"height":60}
+		{"id":"d138690a6ddd2b74","type":"text","text":"Packing Fruits + Roasted Nuts + Vitamin C + Protein Powder","x":104,"y":1170,"width":1286,"height":60},
+		{"id":"da802f266a7f3925","type":"text","text":"Return Home - 6 PM","x":104,"y":1420,"width":250,"height":60},
+		{"id":"8bccd60ed842cce9","type":"text","text":"Return Home - 7:30 PM","x":1140,"y":1420,"width":250,"height":60},
+		{"id":"741255bed3b06775","type":"text","text":"Return Home - 7 PM","x":820,"y":1420,"width":250,"height":60},
+		{"id":"513faf23c461be9b","type":"text","text":"Return Home - 6.30 PM","x":460,"y":1420,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"89ba887b922b9a3d","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"dfb3379ad045ce6e","toSide":"top"},
 		{"id":"dead014a3df3f421","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"f5eacc9df92583e0","toSide":"top"},
 		{"id":"760a39c767ce3dc7","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"e3b795fc36e75034","toSide":"top"},
-		{"id":"8bb74254ae40d15f","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"0cab129cd6b172c4","toSide":"top"}
+		{"id":"8bb74254ae40d15f","fromNode":"77ab1624728ad535","fromSide":"bottom","toNode":"0cab129cd6b172c4","toSide":"top"},
+		{"id":"62e522938f5a1690","fromNode":"ecc9bd2369ddc6a6","fromSide":"bottom","toNode":"da802f266a7f3925","toSide":"top"},
+		{"id":"f4e5627c5de47266","fromNode":"ecc9bd2369ddc6a6","fromSide":"bottom","toNode":"513faf23c461be9b","toSide":"top"},
+		{"id":"dfe9ef7f21ca2276","fromNode":"ecc9bd2369ddc6a6","fromSide":"bottom","toNode":"741255bed3b06775","toSide":"top"},
+		{"id":"3910516fb4449367","fromNode":"ecc9bd2369ddc6a6","fromSide":"bottom","toNode":"8bccd60ed842cce9","toSide":"top"},
+		{"id":"91486fbb6f3fe735","fromNode":"dfb3379ad045ce6e","fromSide":"bottom","toNode":"0135954d4dc1c223","toSide":"left"},
+		{"id":"f8b373ad8cf144e7","fromNode":"f5eacc9df92583e0","fromSide":"bottom","toNode":"0135954d4dc1c223","toSide":"top"},
+		{"id":"7591c7f090bbf96f","fromNode":"e3b795fc36e75034","fromSide":"bottom","toNode":"0135954d4dc1c223","toSide":"top"},
+		{"id":"6208b7294b8a970d","fromNode":"0cab129cd6b172c4","fromSide":"bottom","toNode":"0135954d4dc1c223","toSide":"right"},
+		{"id":"2187edf690d94ed1","fromNode":"0135954d4dc1c223","fromSide":"bottom","toNode":"3f2d6e0845fbcae7","toSide":"top"}
 	]
 }
