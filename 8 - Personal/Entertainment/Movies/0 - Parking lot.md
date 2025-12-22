@@ -1,6 +1,6 @@
-- [ ] Movie - English - Free Guy
+t- [ ] Movie - English - Free Guy
 - [ ] Movie - English - [[Mission Impossible]]
-- [ ] Movie - English - [[Zootopia]]
+- [[Movie - English - Zootopia]]
 - [ ] Movie - English - Good Fortune
 - [ ] Movie - English - F1: The Movie
 - [ ] Movie - English - Superman 2025
