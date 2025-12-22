@@ -4,9 +4,9 @@ t- [ ] Movie - English - Free Guy
 - [ ] Movie - English - Good Fortune
 - [ ] Movie - English - F1: The Movie
 - [ ] Movie - English - Superman 2025
-- [x] Movie - English - Jurassic World: Rebirth
-- [x] Movie - English - Frankenstein 
-- [x] Movie - Hindi - Dhurandhar
+- [[Movie - English - Jurassic World Rebirth]]
+- [[Movie - English - Frankenstein]]
+- [[Movie - Hindi - Dhurandhar]]
 - [ ] Movie - English - Happy Gilmore
 	- [ ] Happy Gilmore
 	- [ ] Happy Gilmore 2
