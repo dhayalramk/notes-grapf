@@ -14,7 +14,7 @@
 	- [ ] Jack Reacher
 	- [ ] Never Go Back
 - [ ] Movie - English - Oblivion
-- [ ] Movie - English - Edge of Tomorrow
+- [[Movie - English - Edge of]]
 - [ ] Movie - English - The Mummy - 2017
 - [ ] Movie - English - Top Gun
 	- [ ] 1986 - Top Gun
