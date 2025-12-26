@@ -44,6 +44,9 @@ formulas:
 views:
   - type: tasknotesKanban
     name: Kanban Board
+    filters:
+      and:
+        - status != "done"
     groupBy:
       property: status
       direction: ASC
