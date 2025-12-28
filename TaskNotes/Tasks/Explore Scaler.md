@@ -36,5 +36,7 @@ Skill Certification
 	High Level Design
 	Back-end Design
 
-Other Classes
+Discussion Hub
+
+
 	
