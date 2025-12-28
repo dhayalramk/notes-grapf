@@ -5,3 +5,12 @@
 	3. Guardrails
 	4. Streaming
 3. ML Engineer 
+
+High Level Design
+	Book: Designing Data Intensive Apps
+	Course: BytebyBytego
+	Ststem Design Interviews
+	YT Channels
+		System Design Right Call
+		Jordan has no life
+		
