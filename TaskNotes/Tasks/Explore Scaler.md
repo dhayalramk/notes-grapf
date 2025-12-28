@@ -11,3 +11,12 @@ timeEntries:
     description: Work session
 ---
 
+Decision: Don't even think of doing MS Degree in Scaler. It's waste of time in everyway
+
+
+Classes
+	Module 1 - Introduction
+	Module 2 - Advanced DSA 1
+	Module 3 - Advanced DSA 2
+	Module 4 - Advanced DSA 3
+	
