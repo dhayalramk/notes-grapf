@@ -25,4 +25,12 @@ Maths for ML
 
 MK Knowledge
 	Standford University
-	ML (Super)
+	ML (Supervicsed + Unsuperviced)
+	Deep Learning - CD 230
+	EV -> CS 231 N
+	NLP -> CS 224 N
+
+Engineering
+	Data Engineeting
+		deeplearning.ai
+		Book: Building scalable ML Systems (Chip Hyyern)
