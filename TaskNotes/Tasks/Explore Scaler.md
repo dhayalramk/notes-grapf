@@ -19,4 +19,12 @@ Classes
 	Module 2 - Advanced DSA 1
 	Module 3 - Advanced DSA 2
 	Module 4 - Advanced DSA 3
-	
+	Module 5 - Advanced DSA 4
+	Module 6 - Computer Systems and Fundamentals
+	Module 7 - LLD: Object Oriented Design and Analysis
+	Module 8 - LLD: Practical Software Engineering and Design
+	Module 9 - High Level Design
+	Module 10 - Front-end Development
+	Module 11 - Back-end Development
+	Module 12 - DSA for Competitive Programming
+	Module 13 - Product Management for Software Engineers 
