@@ -1,15 +1,16 @@
 ---
-status: in-progress
+status: done
 priority: normal
 scheduled: 2025-12-28
 dateCreated: 2025-12-28T12:40:11.264+05:30
-dateModified: 2025-12-28T13:05:22.400+05:30
+dateModified: 2025-12-28T13:27:23.846+05:30
 tags:
   - task
 timeEntries:
   - startTime: 2025-12-28T12:40:22.463+05:30
     description: Work session
     endTime: 2025-12-28T13:05:22.403+05:30
+completedDate: 2025-12-28
 ---
 
 Decision: Don't even think of doing MS Degree in Scaler. It's waste of time in everyway
