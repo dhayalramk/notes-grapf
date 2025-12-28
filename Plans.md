@@ -3,5 +3,5 @@
 ### [[2025-12-29]]
 
 ### To Do
-- [ ] Explore [[Arize]] 
+- [ ] Explore [[Arize AI]] 
 	- [ ] Course - 
