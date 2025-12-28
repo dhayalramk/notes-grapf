@@ -1,3 +1,0 @@
-- [x] [[2025-12-19 1]] - 10:00 AM | Avatar Movie - Naveen
-- [x] [[2025-12-20]] - 06:30 AM | Avatar Movie - Priyanka, Dhayal 
-- [ ] 
