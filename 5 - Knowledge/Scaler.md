@@ -7,6 +7,7 @@
 | ---------- | --------------------------------- | ----------------- | ------ | ------------ |
 | 2025/12/27 | YIIC 6.0 Build your own AI Avatar |                   |        |              |
 
-
+Notes: 
+- [[YIIC]] - Youth / Yound Innovators / Industry Inn
 
 ## Community Classes
