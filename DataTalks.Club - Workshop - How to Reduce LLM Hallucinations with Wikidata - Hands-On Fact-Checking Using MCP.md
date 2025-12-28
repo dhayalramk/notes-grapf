@@ -1,5 +1,6 @@
 ---
 Workshop Date: "[[2026-01-20]]"
+Source: https://us19.campaign-archive.com/?u=0d7822ab98152f5afc118c176&id=cf35dac60b
 ---
 #### Content Details
 LLMs often hallucinate when working with entities and factual claims. In this hands-on workshop, we'll explore how to ground LLM outputs using Wikidata and MCP, and how to move beyond LLM-only approaches toward evidence-based verification.  

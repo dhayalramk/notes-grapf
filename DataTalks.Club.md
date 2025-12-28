@@ -1,6 +1,7 @@
 ---
 YouTube: https://www.youtube.com/@DataTalksClub
 LinkedIn: linkedin.com/company/datatalks-club/
+Owned By: "[[Alexey]]"
 ---
 ## Courses
 
