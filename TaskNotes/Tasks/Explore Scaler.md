@@ -38,6 +38,9 @@ Skill Certification
 
 [[Scaler - Discussion Hub]]
 
+Master Classes
+
+Community Classes
 
 
 
