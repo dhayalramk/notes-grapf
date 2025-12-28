@@ -1,6 +1,6 @@
 ---
 YouTube: https://www.youtube.com/@DataTalksClub
-LinkedIn: linkedin.com/company/datatalks-club
+LinkedIn: linkedin.com/company/datatalks-club/
 ---
 ## Courses
 
