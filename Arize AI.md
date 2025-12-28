@@ -4,4 +4,4 @@ Unified AI engineering and evaluation platform to accelerate development and imp
 
 
 Learning - Course 
-- [ ] AI Agents Mastery: From Architecture To Optimization - 2026 Update
+- [ ] [[AI Agents Mastery - From Architecture To Optimization - 2026 Update]]

@@ -4,4 +4,5 @@
 
 ### To Do
 - [ ] Explore [[Arize AI]] 
-	- [ ] Course - 
+	- [ ] Course - [[AI Agents Mastery - From Architecture To Optimization - 2026 Update]]
+- [ ] 
