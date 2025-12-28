@@ -28,3 +28,13 @@ Classes
 	Module 11 - Back-end Development
 	Module 12 - DSA for Competitive Programming
 	Module 13 - Product Management for Software Engineers 
+
+Skill Certification
+	Advanced SDA 4
+	Computer Systems and Fundamentals
+	LLD: Practical Software Engineering and Design
+	High Level Design
+	Back-end Design
+
+Other Classes
+	
