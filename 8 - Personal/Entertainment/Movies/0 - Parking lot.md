@@ -8,7 +8,7 @@
 - [[Movie - English - Frankenstein]]
 - [[Movie - Hindi - Dhurandhar]]
 - [ ] Movie - English - Happy Gilmore
-	- [ ] Happy Gilmore
+	- [ ]  
 	- [ ] Happy Gilmore 2
 - [ ] Movie - English - Jack Reacher
 	- [ ] Jack Reacher
@@ -19,4 +19,4 @@
 - [ ] Movie - English - Top Gun
 	- [ ] 1986 - Top Gun
 	- [ ] 2022 - Maverick
-- [ ] Movie - English - [[Now You See Me]]
+- [x] Movie - English - [[Now You See Me]]
