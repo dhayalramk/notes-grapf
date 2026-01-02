@@ -8,7 +8,7 @@
 - [ ] Things Done - [[2026-01-02]]
 
 ### Office
-- [[Nokia]]
+- [[Office - Nokia]]
 
 
 
